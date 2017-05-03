@@ -4,7 +4,7 @@ class PhotoGrid extends React.Component {
   render() {
     return (
       <div className="photo-grid">
-        I am the single
+        I am the photo grid
       </div>
     )
   }
